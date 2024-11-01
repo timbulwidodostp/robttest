@@ -1,5 +1,9 @@
-0
-1
-2
-3
-p robttest Robust t-test for potentially heavy-tailed observations/scores Use robttest With STATA 18
+v 1.0.0
+d Ulrich K. Müller
+d Princeton University
+d umueller@princeton.edu
+d https://github.com/acarril/robttest
+
+d 'robttest': Robust t-test for potentially heavy-tailed observations.
+
+p robttest
