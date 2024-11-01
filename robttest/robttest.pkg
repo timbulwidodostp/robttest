@@ -1,5 +1,6 @@
-d 'DEA': Data envelopment analysis
+d 'robttest': Robust t-test for potentially heavy-tailed observations/scores Use robttest With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f all.sd
+f heavymeanmata.do
+f robttest.ado
+f robttest.sthlp
