@@ -1,6 +1,8 @@
 # robttest
 Robust t-test for potentially heavy-tailed observations/scores Use robttest With STATA 18
 
+https://www.youtube.com/watch?v=_hZX93AdO_8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
